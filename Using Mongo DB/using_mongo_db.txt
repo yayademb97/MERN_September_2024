@@ -1,0 +1,17 @@
+ 1 --username TA_Yaya_MERN
+Enter password: ************
+Current Mongosh Log ID: 67292bb475ca2978c92710bb
+Connecting to:          mongodb+srv://<credentials>@cluster-mern.a3vgi.mongodb.net/?appName=mongosh+2.3.0
+Using MongoDB:          7.0.15 (API Version 1)
+Using Mongosh:          2.3.0
+mongosh 2.3.2 is available for download: https://www.mongodb.com/try/download/shell
+
+For mongosh info see: https://www.mongodb.com/docs/mongodb-shell/
+
+Warning: Found ~/.mongorc.js, but not ~/.mongoshrc.js. ~/.mongorc.js will not be loaded.
+  You may want to copy or rename ~/.mongorc.js to ~/.mongoshrc.js.
+Atlas atlas-10vw2v-shard-0 [primary] test>
+
+
+
+
